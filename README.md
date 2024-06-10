@@ -4,6 +4,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:pbn62413@gmail.com?subject=Tenho%20interrese%20em%20seus%20servi%C3%A7os">
     <img src="https://img.shields.io/badge/Email-EB1923?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://portfolio-pedrobn.vercel.app/">
-    <img src="https://img.shields.io/badge/portfolio-262c3e?style=for-the-badge&logo=About.me&logoColor=white""/></a>
+  <a>
+    <img src="https://img.shields.io/badge/portfolio-262c3e?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 </div>
