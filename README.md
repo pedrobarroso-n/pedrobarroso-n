@@ -1,12 +1,16 @@
-<img src="https://media.licdn.com/dms/image/D4D16AQHGnuYAKbFRPw/profile-displaybackgroundimage-shrink_350_1400/0/1714387518219?e=1720051200&v=beta&t=z5CgjrqGdJ8EjjW8fACC54pX1X-KtlXq1Tvgmn1_QbI"/>
-
 <h3>Tecnologias</h3>
 <div>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-F80000?style=for-the-badge&logo=html5&logoColor=white"/>
+</div>
+<h3>Ferramentas</h3>
+<div>
+<img src="https://img.shields.io/badge/Figma-090020?style=for-the-badge&logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </div>
 
 <h3>Contato</h3>
