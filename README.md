@@ -11,7 +11,6 @@
     <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />  
     <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /> 
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
     <img align="right" height="70" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmRpMmEwNTEzdHYwandwY3R2eHAyN25ja2RsdzY0eXpsZXU1cTRudiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEduUkR13701mndnO/giphy.webp" />
 </div>
 
