@@ -3,7 +3,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobarroso-n&layout=compact&theme=radical" />
 </div>
 
-<h3>Languagues and Frameworks</h3>
+<h3>Languages and Frameworks</h3>
 <div>
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
     <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
