@@ -6,14 +6,12 @@
 </div>
 
 <div align="center">
-  <h3 ><a href="">Confira meu Portifólio</a></h3>
-  <br>
+  <h3><a href="">Confira meu Portifólio</a></h3>
   <div>
     <img height="28" src="https://github.com/user-attachments/assets/580e8760-02bf-4c12-8f2b-0a19be9413ca" />
     <img src="https://img.shields.io/badge/Meu LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </div>
 </div>
-
 
 ### Tecnologias
 <ul type="square">
@@ -40,5 +38,4 @@
 - Formação Frontend (T6) - Oracle ONE/Alura [92h]
 - IA Generativa - Oracle ONE/Alura [25h]
 - Técnico em Informática - IFPI [2022]
-
 
