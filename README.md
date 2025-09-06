@@ -7,10 +7,10 @@
 
 <div align="center">
   <h3><a href="">Confira meu Portifólio</a></h3>
-  <div>
-    <img height="28" src="https://github.com/user-attachments/assets/580e8760-02bf-4c12-8f2b-0a19be9413ca" />
+  <img height="28" src="https://github.com/user-attachments/assets/580e8760-02bf-4c12-8f2b-0a19be9413ca" />
+  <a href="https://www.linkedin.com/in/pedrobarroso-n/" target="_blank">
     <img src="https://img.shields.io/badge/Meu LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </div>
+  </a>
 </div>
 
 ### Tecnologias
