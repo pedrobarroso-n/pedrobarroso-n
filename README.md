@@ -1,27 +1,44 @@
-<h1>Hy and Welcome to my Github! 🪂</h1>
+# Welcome to my Github! 🪂
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrobarroso-n&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobarroso-n&layout=donut&theme=radical" />
+<div align="center">
+  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=pedrobarroso-n&show_icons=true&theme=radical" />
+  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobarroso-n&layout=donut&theme=radical" />
 </div>
 
-<div><br>  
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F22F46?style=for-the-badge&logo=figma&logoColor=white" />
-  <img align="right" height="60" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmRpMmEwNTEzdHYwandwY3R2eHAyN25ja2RsdzY0eXpsZXU1cTRudiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEduUkR13701mndnO/giphy.webp" />
+<div align="center">
+  <h3 ><a href="">Confira meu Portifólio</a></h3>
+  <br>
+  <div>
+    <img height="28" src="https://github.com/user-attachments/assets/580e8760-02bf-4c12-8f2b-0a19be9413ca" />
+    <img src="https://img.shields.io/badge/Meu LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </div>
 </div>
+
+
+### Tecnologias
+<ul type="square">
+  <li>Frontend <br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" height=42 />     
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" height=42 />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" height=38 />          
+  </li>
+  
+  <li>UI e UX <br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height=34 /> 
+  </li>
+  
+  <li>Versionamento <br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" height=38 />
+    <img src="https://github.com/user-attachments/assets/5663eea1-ed9e-4a3a-8bb0-414a2daf1253" height=38 />        
+  </li>
+</ul>
 
 ##
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/pedrobarroso-n/">
-    <img src="https://img.shields.io/badge/LinkedIn-0747a6?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <!--<a href="mailto:pbn62413@gmail.com?subject=Vi seus projetos e gostaria de conversar!&body=Olá, Pedro;">
-    <img src="https://img.shields.io/badge/Gmail-840010?style=for-the-badge&logo=gmail&logoColor=white" /></a>-->
-</div>
+### Formações/Certificados
+- Tecnologia em Análise e Desenvolvimento de Sistemas - IFPI [2023-2025]
+- Formação Frontend (T6) - Oracle ONE/Alura [92h]
+- IA Generativa - Oracle ONE/Alura [25h]
+- Técnico em Informática - IFPI [2022]
 
 
