@@ -6,14 +6,18 @@
 </div>
 
 <div align="center">
-  <h3><a href="">Confira meu Portifólio</a></h3>
-  <img height="28" src="https://github.com/user-attachments/assets/580e8760-02bf-4c12-8f2b-0a19be9413ca" />
-  <a href="https://www.linkedin.com/in/pedrobarroso-n/" target="_blank">
-    <img src="https://img.shields.io/badge/Meu LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <br>
+  <img src="https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white" />
+  <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
-### Tecnologias
+<h3 align="center"><a href="">Confira Meu Portifólio</a>
+
+## Tecnologias
 <ul type="square">
   <li>Frontend <br>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" height=42 />     
@@ -31,9 +35,14 @@
   </li>
 </ul>
 
-##
+## Contate-me
+<ul type="circle">
+  <li>E-mail: <a href="mailto:pbn62413@gmail.com">pbn62413@gmail.com</a></li>
+  <li>LinkedIn: <a href="https://www.linkedin.com/in/pedrobarroso-n/">linkedin.com/in/pedrobarroso-n/</a></li>
+  <li>Lattes: <a href="http://lattes.cnpq.br/1959485885156419">lattes.cnpq.br/1959485885156419</a></li>
+</ul>
 
-### Formações/Certificados
+## Formações/Certificados
 - Tecnologia em Análise e Desenvolvimento de Sistemas - IFPI [2023-2025]
 - Formação Frontend (T6) - Oracle ONE/Alura [92h]
 - IA Generativa - Oracle ONE/Alura [25h]
