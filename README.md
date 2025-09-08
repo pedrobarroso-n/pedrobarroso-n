@@ -44,7 +44,7 @@
 
 ## Formações/Certificados
 - Tecnologia em Análise e Desenvolvimento de Sistemas - IFPI [2023-2025]
+- Técnico em Informática - IFPI [2022]
 - Formação Frontend (T6) - Oracle ONE/Alura [92h]
 - IA Generativa - Oracle ONE/Alura [25h]
-- Técnico em Informática - IFPI [2022]
 
