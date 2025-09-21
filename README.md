@@ -35,7 +35,7 @@
   </li>
 </ul>
 
-## Contate-me
+## Encontre-me
 <ul type="circle">
   <li>E-mail: <a href="mailto:pbn62413@gmail.com">pbn62413@gmail.com</a></li>
   <li>LinkedIn: <a href="https://www.linkedin.com/in/pedrobarroso-n/">linkedin.com/in/pedrobarroso-n/</a></li>
@@ -43,7 +43,7 @@
 </ul>
 
 ## Formações/Certificados
-- Tecnologia em Análise e Desenvolvimento de Sistemas - IFPI [2023-2025]
+- Tecnologia em Análise e Desenvolvimento de Sistemas - IFPI [2025]
 - Técnico em Informática - IFPI [2022]
 - Formação Frontend (T6) - Oracle ONE/Alura [92h]
 - IA Generativa - Oracle ONE/Alura [25h]
