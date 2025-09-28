@@ -2,26 +2,17 @@
 
 ### Dados do Github:
 <div align="center">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=pedrobarroso-n&show_icons=true&theme=radical" />
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobarroso-n&layout=donut&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrobarroso-n&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobarroso-n&layout=donut&theme=radical" />
+  <img align="right" height="60" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODV3amp4OWdpeDExZjZ5endycnY1bHVraTlwOGR1bTV5dGZyczA3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zkMri4yiJ3Mdy/giphy.gif" />
 </div>
-
-<div align="center">
-  <br>
-  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</div>
-
-<h3 align="center"><a href="">Acesse Meu Portifólio</a>
 
 ## Tecnologias
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" height=42 />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" height=42 />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" height=38 />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" height=40 />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" height=40 />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" height=40 />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height=42 />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" height=38 />
   <img src="https://github.com/user-attachments/assets/5663eea1-ed9e-4a3a-8bb0-414a2daf1253" height=38 /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height=34 />
