@@ -4,8 +4,8 @@
 
 ### Github
 <div align="center">
-  <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedrobarroso-n&show_icons=true&theme=radical" />
-  <img height="148em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobarroso-n&theme=radical&hide_progress=true" />
+  <img height="147em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedrobarroso-n&show_icons=true&theme=radical" />
+  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobarroso-n&theme=radical&hide_progress=true" />
 </div>
 
 ## Tecnologias
