@@ -1,10 +1,11 @@
 # Welcome to my Github! 🪂
+<img align="right" height="50" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODV3amp4OWdpeDExZjZ5endycnY1bHVraTlwOGR1bTV5dGZyczA3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zkMri4yiJ3Mdy/giphy.gif" />
+<br>
 
-### Dados do Github:
+### Github
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrobarroso-n&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobarroso-n&layout=donut&theme=radical" />
-  <img align="right" height="60" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODV3amp4OWdpeDExZjZ5endycnY1bHVraTlwOGR1bTV5dGZyczA3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zkMri4yiJ3Mdy/giphy.gif" />
+  <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedrobarroso-n&show_icons=true&theme=radical" />
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=pedrobarroso-n&theme=radical" />
 </div>
 
 ## Tecnologias
