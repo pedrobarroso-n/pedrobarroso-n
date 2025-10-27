@@ -1,5 +1,5 @@
 # Bem-vindo ao meu Github! 🪂
-<img align="right" height="40" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODV3amp4OWdpeDExZjZ5endycnY1bHVraTlwOGR1bTV5dGZyczA3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zkMri4yiJ3Mdy/giphy.gif" />
+<img align="right" height="45" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODV3amp4OWdpeDExZjZ5endycnY1bHVraTlwOGR1bTV5dGZyczA3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zkMri4yiJ3Mdy/giphy.gif" />
 <br>
 
 ### Github
@@ -10,15 +10,15 @@
 
 ## Tecnologias
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,react,bootstrap,figma,github&perline=14" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,git,react,bootstrap,figma,github&perline=12" />
+  </a>
 </div>
 
 ## Encontre-me
-<ul type="square">
-  <li>E-mail: <a href="mailto:pbn62413@gmail.com">pbn62413@gmail.com</a></li>
-  <li>LinkedIn: <a href="https://www.linkedin.com/in/pedrobarroso-n/">linkedin.com/in/pedrobarroso-n/</a></li>
-  <li>Lattes: <a href="http://lattes.cnpq.br/1959485885156419">lattes.cnpq.br/1959485885156419</a></li>
-</ul>
+- E-mail: <a href="mailto:pbn62413@gmail.com">pbn62413@gmail.com</a>
+- LinkedIn: <a href="https://www.linkedin.com/in/pedrobarroso-n/">linkedin.com/in/pedrobarroso-n/</a>
+- Lattes: <a href="http://lattes.cnpq.br/1959485885156419">lattes.cnpq.br/1959485885156419</a>
 
 ## Formações/Certificados
 - Tecnologia em Análise e Desenvolvimento de Sistemas - IFPI [2025]
