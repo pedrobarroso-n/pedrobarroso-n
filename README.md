@@ -1,22 +1,16 @@
-# Welcome to my Github! 🪂
-<img align="right" height="50" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODV3amp4OWdpeDExZjZ5endycnY1bHVraTlwOGR1bTV5dGZyczA3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zkMri4yiJ3Mdy/giphy.gif" />
+# Bem-vindo ao meu Github! 🪂
+<img align="right" height="40" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODV3amp4OWdpeDExZjZ5endycnY1bHVraTlwOGR1bTV5dGZyczA3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zkMri4yiJ3Mdy/giphy.gif" />
 <br>
 
 ### Github
 <div align="center">
-  <img height="146em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedrobarroso-n&show_icons=true&theme=radical" />
-  <img height="136em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobarroso-n&theme=radical&hide_progress=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pedrobarroso-n&show_icons=true&theme=radical" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobarroso-n&theme=radical&hide_progress=true" />
 </div>
 
 ## Tecnologias
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" height=40 />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" height=40 />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" height=40 />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height=42 />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" height=38 />
-  <img src="https://github.com/user-attachments/assets/5663eea1-ed9e-4a3a-8bb0-414a2daf1253" height=38 /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height=34 />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,react,bootstrap,figma,github&perline=14" />
 </div>
 
 ## Encontre-me
